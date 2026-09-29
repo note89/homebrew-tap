@@ -13,7 +13,6 @@ cask "screensnap" do
   end
 
   auto_updates true
-  depends_on formula: "gifski"
   depends_on macos: :sonoma
 
   app "Screensnap.app"
