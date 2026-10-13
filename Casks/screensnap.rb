@@ -1,6 +1,6 @@
 cask "screensnap" do
-  version "0.4.0"
-  sha256 "6837aac179c1aed9a29e2864dc090bf1162ae95df805889a004624de593dbd38"
+  version "0.4.1"
+  sha256 "c92b442fb51c86d782ceaef9cd527c04d58d0a9a43368e15d7c03398aed3f523"
 
   url "https://github.com/note89/screensnap/releases/download/v#{version}/Screensnap-#{version}.zip"
   name "Screensnap"
